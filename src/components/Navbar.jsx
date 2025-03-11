@@ -24,7 +24,7 @@ return navigate(`/search?q=${queryterm}`)
             <span>
               <i className="bi bi-camera-reels m-1"></i>
             </span>
-            MovieFlix
+            Movie Mania
           </NavLink>
           <button
             className="navbar-toggler"
